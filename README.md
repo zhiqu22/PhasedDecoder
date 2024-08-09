@@ -36,4 +36,6 @@ Finally, you can run the command to reproduce the results.
 cd pdec_work
 bash train/ted.sh
 bash train/opus.sh
+# note:
+# please edit the variables "ROOT_PATH" and "DATA_BIN" in those two files as you need.
 ```
